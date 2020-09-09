@@ -8,7 +8,7 @@ Once we have those basic pieces in place, we'll look closely at some key buildin
 
 ## Lesson resources
 
-- [fastai docs on Callbacks](https://docs.fast.ai/callbacks.html)
+- [fastai docs on Callbacks](https://docs.fast.ai/callbacks.html) <-This link is bloken. Fix it please.
 - [Lesson notebooks](https://github.com/fastai/course-v3/tree/master/nbs/dl2)
 - [Lesson notes](https://medium.com/@lankinen/fast-ai-lesson-9-notes-part-2-v3-ca046a1a62ef) by @Lankinen
 - [Discussion thread](https://forums.fast.ai/t/lesson-9-discussion-wiki-2019/41969/16)
